@@ -6,7 +6,7 @@ def generate_data(n, d):
     """
     Generates a synthetic linear regression dataset.
     The data is created using an underlying true linear model:
-        y = X w_true + noise
+        y = X w_true + noise 
 
     where:
         - X is an (n x d) matrix of input features,
