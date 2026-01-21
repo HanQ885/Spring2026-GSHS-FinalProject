@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 def generate_data(n, d):
     """
     Generates a synthetic linear regression dataset.
-    The data is created using an underlying true linear model:
+    The data is created using an underlying true linear model: 
         y = X w_true + noise
 
     where:
