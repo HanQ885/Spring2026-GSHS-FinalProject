@@ -1,5 +1,5 @@
 import numpy as np
-import time
+import time 
 import matplotlib.pyplot as plt
 
 def generate_data(n, d):
